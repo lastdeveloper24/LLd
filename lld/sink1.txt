@@ -1,1 +1,0 @@
-INFO [2023-12-24T03:16:23.598475979] This application is working

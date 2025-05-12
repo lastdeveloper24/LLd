@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld/cache-lld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld/cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld/gs-spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld/leetcode-lld-flipkart-coding-blox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lld/myCache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myCache" vcs="Git" />
+  </component>
+</project>
